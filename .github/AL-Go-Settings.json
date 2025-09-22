@@ -7,5 +7,8 @@
       "url": "https://api.nuget.org/v3/index.json",
       "patterns": "FreddyKristiansen.App1.8c8eec06-bf1c-4ab6-b375-a0a6cf31a6bd"
     }
+  ],
+  "installApps": [
+    "https://github.com/AL-Go-Workshop/Snippets/raw/refs/heads/main/AnotherApp.app"
   ]
 }
