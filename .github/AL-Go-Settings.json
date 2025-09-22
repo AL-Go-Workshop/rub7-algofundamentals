@@ -10,5 +10,6 @@
   ],
   "installApps": [
     "https://github.com/AL-Go-Workshop/Snippets/raw/refs/heads/main/AnotherApp.app"
-  ]
+  ],
+  "generateDependencyArtifact": true
 }
