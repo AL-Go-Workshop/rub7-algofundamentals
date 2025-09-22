@@ -12,5 +12,8 @@
     "https://github.com/AL-Go-Workshop/Snippets/raw/refs/heads/main/AnotherApp.app"
   ],
   "generateDependencyArtifact": true,
-  "templateSha": "920b9e1a65667be8e6d54cb478fae5f2847aa3ea"
+  "templateSha": "920b9e1a65667be8e6d54cb478fae5f2847aa3ea",
+  "DeployToCustom": {
+    "EnvironmentType": "Onprem"
+  }
 }
