@@ -1,5 +1,5 @@
 {
-  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v7.3/.Modules/settings.schema.json",
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v8.1/.Modules/settings.schema.json",
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
   "trustedNuGetFeeds": [
@@ -12,7 +12,7 @@
     "https://github.com/AL-Go-Workshop/Snippets/raw/refs/heads/main/AnotherApp.app"
   ],
   "generateDependencyArtifact": true,
-  "templateSha": "920b9e1a65667be8e6d54cb478fae5f2847aa3ea",
+  "templateSha": "2b0291277622df06df2856bc05768be2ebb5a6b5",
   "DeployToCustom": {
     "EnvironmentType": "Onprem"
   }
